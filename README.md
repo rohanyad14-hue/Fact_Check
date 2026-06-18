@@ -42,3 +42,6 @@ streamlit run app.py
 
 - `app.py` — the whole app (extract → search → verify → report).
 - `requirements.txt` — dependencies.
+
+
+## Thanks for using ^w^
